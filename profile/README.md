@@ -10,14 +10,14 @@ Join our community today and open a new page to yours FiveM roleplay journey!
   <tr>
     <td style="text-align: center;">
       <a href="https://github.com/leaderdak" style="text-decoration: none">
-        <img src="https://raw.githubusercontent.com/NLP-Development/.github/main/profile/avatars/leaderdak.gif" alt="leaderdak" width="150" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+        <img src="avatars/leaderdak.gif" alt="leaderdak" width="150" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
         <p><strong style="text-align: center; font-size: 18px; color: #333;">leaderdak</strong></p>
         <p style="text-align: center; font-size: 14px; color: #666;">Owner/Developer</p>
       </a>
     </td>
     <td style="text-align:center;">
       <a href="https://github.com/burnoutprojects" style="text-decoration: none">
-        <img src="https://cdn.githubraw.com/NLP-Development/.github/main/profile/avatars/burnoutprojects.gif" alt="burnoutprojects" width="150" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+        <img src="avatars/burnoutprojects.gif" alt="burnoutprojects" width="150" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
         <p><strong style="text-align: center; font-size: 18px; color: #333;">BurnoutProjects</strong></p>
         <p style="text-align: center; font-size: 14px; color: #666;">Developer</p>
       </a>
